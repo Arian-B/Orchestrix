@@ -1,7 +1,7 @@
 # Orchestrix
 
 <p align="center">
-  <img src="docs/orchestrix-banner.png" alt="Orchestrix Banner" width="100%">
+  <img src="docs/photos/orchestrix-banner.png" alt="Orchestrix Banner" width="100%">
 </p>
 
 <p align="center">
@@ -306,7 +306,7 @@ The current implementation is designed to operate in a Linux or WSL environment 
 ### 1. Enter the project
 
 ```bash
-cd /mnt/d/Coding/Orchestrix
+cd Orchestrix
 ```
 
 ### 2. Activate the Ryu environment
@@ -341,7 +341,7 @@ Alternative paths         : AVAILABLE
 In another terminal:
 
 ```bash
-cd /mnt/d/Coding/Orchestrix
+cd Orchestrix
 sudo python3 topology/orchestration_topology.py
 ```
 

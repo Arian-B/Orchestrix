@@ -589,16 +589,6 @@ See the `LICENSE` file for the complete license text.
 
 ---
 
-## Author
-
-**Arian Bhattacharjee**
-
-Computer Science and Engineering
-
-Orchestrix is developed as an ongoing SDN research and engineering project focused on intelligent resource-aware network orchestration.
-
----
-
 ## Acknowledgements
 
 The project builds upon the open-source SDN ecosystem provided by Ryu, OpenFlow, Open vSwitch, and Mininet.

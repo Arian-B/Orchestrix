@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+ryu-venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Test/cache files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Embedded Ryu repository
+tools/ryu/
